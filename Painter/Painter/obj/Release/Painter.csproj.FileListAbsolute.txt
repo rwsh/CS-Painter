@@ -1,0 +1,15 @@
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\bin\Release\Painter.exe.config
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\bin\Release\Painter.exe
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\bin\Release\Painter.pdb
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter.csprojAssemblyReference.cache
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\MainWindow.g.cs
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\App.g.cs
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter_MarkupCompile.cache
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter_MarkupCompile.lref
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\MainWindow.baml
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter.g.resources
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter.Properties.Resources.resources
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter.csproj.GenerateResource.cache
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter.csproj.CoreCompileInputs.cache
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter.exe
+C:\aprorgamm\Dropbox\PROGRAMM\Видео\МИРЭА\Промышленное программирование\CSharp\08 - Примеры приложений\Painter\Painter\obj\Release\Painter.pdb
